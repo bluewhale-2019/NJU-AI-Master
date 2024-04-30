@@ -1,0 +1,708 @@
+Running random_search on adaptec1 with seed 2025
+HPWL log is ./result/random_search/curve/adaptec1_2025.csv
+The 0th Generation is Starting.
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+The 1th Generation is Starting.
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+The 2th Generation is Starting.
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+The 3th Generation is Starting.
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+The 4th Generation is Starting.
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+The 5th Generation is Starting.
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+The 6th Generation is Starting.
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+The 7th Generation is Starting.
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+The 8th Generation is Starting.
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+The 9th Generation is Starting.
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+no_legal_place
+HPWL at iteration 0 is 615792.2999999984
+HPWL at iteration 1 is 559646.2999999983
+HPWL at iteration 2 is 376376.29999999993
+HPWL at iteration 3 is 554027.2999999976
+HPWL at iteration 4 is 500200.2999999996
+HPWL at iteration 5 is 645058.2999999991
+HPWL at iteration 6 is 597133.2999999983
+HPWL at iteration 7 is 483694.29999999836
+HPWL at iteration 8 is 498375.2999999991
+HPWL at iteration 9 is 704824.2999999984
+HPWL at iteration 10 is 448712.29999999964
+HPWL at iteration 11 is 383598.2999999996
+HPWL at iteration 12 is 458696.2999999996
+HPWL at iteration 13 is 443488.2999999996
+HPWL at iteration 14 is 485399.2999999996
+HPWL at iteration 15 is 555728.2999999996
+HPWL at iteration 16 is 398600.2999999991
+HPWL at iteration 17 is 528426.2999999996
+HPWL at iteration 18 is 522700.2999999968
+HPWL at iteration 19 is 505795.2999999989
+HPWL at iteration 20 is 578287.2999999991
+HPWL at iteration 21 is 393438.29999999993
+HPWL at iteration 22 is 452442.2999999997
+HPWL at iteration 23 is 562544.2999999983
+HPWL at iteration 24 is 470123.2999999987
+HPWL at iteration 25 is 605166.2999999984
+HPWL at iteration 26 is 414392.29999999993
+HPWL at iteration 27 is 396233.2999999995
+HPWL at iteration 28 is 618458.2999999984
+HPWL at iteration 29 is 529234.2999999983
+HPWL at iteration 30 is 464467.2999999996
+HPWL at iteration 31 is 618403.2999999983
+HPWL at iteration 32 is 468008.2999999983
+HPWL at iteration 33 is 373679.2999999995
+HPWL at iteration 34 is 552204.2999999996
+HPWL at iteration 35 is 442135.2999999996
+HPWL at iteration 36 is 420088.2999999996
+HPWL at iteration 37 is 470715.29999999964
+HPWL at iteration 38 is 635083.2999999983
+HPWL at iteration 39 is 730497.2999999991
+HPWL at iteration 40 is 497833.2999999996
+HPWL at iteration 41 is 520934.2999999984
+HPWL at iteration 42 is 518739.29999999824
+HPWL at iteration 43 is 481181.29999999836
+HPWL at iteration 44 is 628904.2999999997
+HPWL at iteration 45 is 443001.2999999996
+HPWL at iteration 46 is 583544.2999999983
+HPWL at iteration 47 is 501983.2999999996
+HPWL at iteration 48 is 427965.29999999824
+HPWL at iteration 49 is 606869.2999999992
+HPWL at iteration 50 is 437118.29999999993
+HPWL at iteration 51 is 452425.2999999989
+HPWL at iteration 52 is 594723.2999999982
+HPWL at iteration 53 is 454238.2999999995
+HPWL at iteration 54 is 378803.2999999996
+HPWL at iteration 55 is 452631.2999999996
+HPWL at iteration 56 is 737881.2999999982
+HPWL at iteration 57 is 357813.2999999997
+HPWL at iteration 58 is 699943.2999999983
+HPWL at iteration 59 is 438051.2999999996
+HPWL at iteration 60 is 432808.2999999996
+HPWL at iteration 61 is 616117.2999999984
+HPWL at iteration 62 is 804641.2999999983
+HPWL at iteration 63 is 456158.29999999993
+HPWL at iteration 64 is 638795.2999999983
+HPWL at iteration 65 is 494726.29999999836
+HPWL at iteration 66 is 512164.2999999984
+HPWL at iteration 67 is 480813.29999999824
+HPWL at iteration 68 is 548653.2999999984
+HPWL at iteration 69 is 488080.2999999996
+HPWL at iteration 70 is 507954.2999999996
+HPWL at iteration 71 is 676028.2999999996
+HPWL at iteration 72 is 470519.29999999906
+HPWL at iteration 73 is 399314.2999999996
+HPWL at iteration 74 is 448410.29999999964
+HPWL at iteration 75 is 367345.29999999976
+HPWL at iteration 76 is 495906.2999999997
+HPWL at iteration 77 is 483510.29999999923
+HPWL at iteration 78 is 544263.2999999989
+HPWL at iteration 79 is 527054.2999999989
+HPWL at iteration 80 is 652245.2999999982
+HPWL at iteration 81 is 660996.2999999967
+HPWL at iteration 82 is 582180.2999999996
+HPWL at iteration 83 is 473946.2999999996
+HPWL at iteration 84 is 509454.2999999984
+HPWL at iteration 85 is 419855.3
+HPWL at iteration 86 is 524410.2999999991
+HPWL at iteration 87 is 463589.2999999983
+HPWL at iteration 88 is 493322.29999999923
+HPWL at iteration 89 is 383270.29999999993
+HPWL at iteration 90 is 416869.2999999996
+HPWL at iteration 91 is 498894.2999999997
+HPWL at iteration 92 is 513870.2999999997
+HPWL at iteration 93 is 641102.2999999984
+HPWL at iteration 94 is 476768.2999999996
+HPWL at iteration 95 is 550837.2999999984
+HPWL at iteration 96 is 577216.2999999984
+HPWL at iteration 97 is 495359.2999999989
+HPWL at iteration 98 is 585940.2999999982
+HPWL at iteration 99 is 509771.2999999996
+HPWL at iteration 100 is 477769.29999999836
+HPWL at iteration 101 is 507932.29999999836
+HPWL at iteration 102 is 533870.2999999983
+HPWL at iteration 103 is 495716.2999999996
+HPWL at iteration 104 is 394482.29999999964
+HPWL at iteration 105 is 462138.2999999995
+HPWL at iteration 106 is 481371.2999999989
+HPWL at iteration 107 is 496723.2999999996
+HPWL at iteration 108 is 529550.2999999996
+HPWL at iteration 109 is 530212.2999999983
+HPWL at iteration 110 is 482641.2999999996
+HPWL at iteration 111 is 478772.2999999989
+HPWL at iteration 112 is 628292.2999999997
+HPWL at iteration 113 is 513557.29999999824
+HPWL at iteration 114 is 612603.2999999992
+HPWL at iteration 115 is 524515.2999999996
+HPWL at iteration 116 is 440820.29999999964
+HPWL at iteration 117 is 602393.2999999976
+HPWL at iteration 118 is 444382.2999999996
+HPWL at iteration 119 is 499601.2999999997
+HPWL at iteration 120 is 532052.2999999997
+HPWL at iteration 121 is 622201.2999999984
+HPWL at iteration 122 is 585703.2999999984
+HPWL at iteration 123 is 617783.2999999982
+HPWL at iteration 124 is 458111.2999999996
+HPWL at iteration 125 is 540437.2999999991
+HPWL at iteration 126 is 673738.2999999984
+HPWL at iteration 127 is 508045.29999999976
+HPWL at iteration 128 is 809273.2999999982
+HPWL at iteration 129 is 460591.2999999996
+HPWL at iteration 130 is 411288.29999999993
+HPWL at iteration 131 is 618075.2999999976
+HPWL at iteration 132 is 403559.2999999996
+HPWL at iteration 133 is 357340.3000000005
+HPWL at iteration 134 is 456757.2999999996
+HPWL at iteration 135 is 690079.2999999977
+HPWL at iteration 136 is 425134.2999999996
+HPWL at iteration 137 is 454861.2999999995
+HPWL at iteration 138 is 392162.29999999993
+HPWL at iteration 139 is 612146.2999999957
+HPWL at iteration 140 is 574218.2999999983
+HPWL at iteration 141 is 510953.2999999982
+HPWL at iteration 142 is 411411.29999999993
+HPWL at iteration 143 is 494400.29999999824
+HPWL at iteration 144 is 450449.2999999991
+HPWL at iteration 145 is 675938.2999999982
+HPWL at iteration 146 is 655905.2999999997
+HPWL at iteration 147 is 490154.29999999824
+HPWL at iteration 148 is 363742.2999999996
+HPWL at iteration 149 is 579306.2999999996
+HPWL at iteration 150 is 481263.29999999824
+HPWL at iteration 151 is 540305.2999999984
+HPWL at iteration 152 is 473853.2999999983
+HPWL at iteration 153 is 635215.2999999975
+HPWL at iteration 154 is 623177.2999999992
+HPWL at iteration 155 is 585761.2999999983
+HPWL at iteration 156 is 478992.2999999984
+HPWL at iteration 157 is 495242.2999999996
+HPWL at iteration 158 is 440908.2999999996
+HPWL at iteration 159 is 476343.29999999964
+HPWL at iteration 160 is 639813.2999999983
+HPWL at iteration 161 is 443883.2999999996
+HPWL at iteration 162 is 462941.29999999964
+HPWL at iteration 163 is 592158.2999999992
+HPWL at iteration 164 is 505350.2999999996
+HPWL at iteration 165 is 433988.2999999995
+HPWL at iteration 166 is 502936.2999999982
+HPWL at iteration 167 is 547264.2999999984
+HPWL at iteration 168 is 810051.2999999991
+HPWL at iteration 169 is 528917.2999999997
+HPWL at iteration 170 is 572128.2999999985
+HPWL at iteration 171 is 570616.2999999983
+HPWL at iteration 172 is 477664.29999999964
+HPWL at iteration 173 is 371101.2999999996
+HPWL at iteration 174 is 410571.2999999996
+HPWL at iteration 175 is 496968.2999999991
+HPWL at iteration 176 is 644484.2999999983
+HPWL at iteration 177 is 520382.2999999991
+HPWL at iteration 178 is 429500.2999999996
+HPWL at iteration 179 is 674330.2999999983
+HPWL at iteration 180 is 599917.2999999997
+HPWL at iteration 181 is 495014.29999999824
+HPWL at iteration 182 is 482393.2999999997
+HPWL at iteration 183 is 387334.2999999996
+HPWL at iteration 184 is 440704.2999999997
+HPWL at iteration 185 is 502605.29999999935
+HPWL at iteration 186 is 539766.2999999983
+HPWL at iteration 187 is 703654.2999999985
+HPWL at iteration 188 is 408298.29999999964
+HPWL at iteration 189 is 576065.2999999984
+HPWL at iteration 190 is 510544.29999999824
+HPWL at iteration 191 is 499888.2999999997
+HPWL at iteration 192 is 923974.2999999984
+HPWL at iteration 193 is 390517.29999999993
+HPWL at iteration 194 is 598821.2999999976
+HPWL at iteration 195 is 506752.2999999991
+HPWL at iteration 196 is 505922.2999999996
+HPWL at iteration 197 is 430866.29999999976
+HPWL at iteration 198 is 404462.2999999996
+HPWL at iteration 199 is 465518.29999999964
