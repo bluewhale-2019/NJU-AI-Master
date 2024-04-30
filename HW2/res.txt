@@ -1,0 +1,49 @@
+# Evaluation 1
+tau :96, m :1
+lag_m_embedding euclidean
+mse: 37.07137499405651
+mae: 4.507238706583336
+lag_m_embedding chebyshev
+mse: 38.16771153458555
+mae: 4.620650406141739
+tau :48, m :2
+lag_m_embedding euclidean
+mse: 37.5615294109817
+mae: 4.614914401131816
+lag_m_embedding chebyshev
+mse: 38.16771153458555
+mae: 4.620650406141739
+tau :16, m :6
+lag_m_embedding euclidean
+mse: 37.42852547912361
+mae: 4.629526920011253
+lag_m_embedding chebyshev
+mse: 38.16771153458555
+mae: 4.620650406141739
+tau :32, m :3
+lag_m_embedding euclidean
+mse: 37.60326231033505
+mae: 4.640794632734805
+lag_m_embedding chebyshev
+mse: 38.16771153458555
+mae: 4.620650406141739
+fourier_embedding euclidean
+mse: 37.16111766958188
+mae: 4.681431188237407
+fourier_embedding chebyshev
+mse: 38.16771153458555
+mae: 4.620650406141739
+
+# Evaluation 2
+TsfKNN Moving_Average
+mse: 37.16111766958188
+mae: 4.681431188237407
+TsfKNN Differential_Decomposition
+mse: 37.16111766958188
+mae: 4.681431188237407
+DLinear Moving_Average
+mse: 6.376598602450576
+mae: 1.4049736873464176
+DLinear Differential_Decomposition
+mse: 6.393684340299362
+mae: 1.4083320450585783
