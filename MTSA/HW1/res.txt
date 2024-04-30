@@ -1,0 +1,301 @@
+./src/dataset/electricity/electricity.csv AutoRegressiveLinearForecast IdentityTransform
+mse: 96483.10313931073
+mae: 228.51308517757184
+mape: 6.799572222352834
+smape: 6.704784441291607
+mase: 0.8346036691551618
+./src/dataset/electricity/electricity.csv AutoRegressiveLinearForecast Normalization
+mse: 105285.0041795416
+mae: 237.19295980586446
+mape: 7.187887547894353
+smape: 6.948203687662501
+mase: 0.8663136950670861
+./src/dataset/electricity/electricity.csv AutoRegressiveLinearForecast Standardization
+mse: 101218.25650941668
+mae: 233.7129447091751
+mape: 6.957249841068114
+smape: 6.850650582444446
+mase: 0.8536037414627441
+./src/dataset/electricity/electricity.csv AutoRegressiveLinearForecast MeanNormalization
+mse: 101221.57303274302
+mae: 233.7113151147323
+mape: 6.957396639997554
+smape: 6.850579176819754
+mase: 0.8535977785676242
+./src/dataset/electricity/electricity.csv AutoRegressiveLinearForecast BoxCox
+mse: 97012.1058301747
+mae: 229.13281344819316
+mape: 6.795177057124644
+smape: 6.7173742255921125
+mase: 0.8368694754840457
+./src/dataset/electricity/electricity.csv ExponentialSmoothingForecast IdentityTransform
+mse: 347295.4280078103
+mae: 456.83265370174695
+mape: 13.36174309469592
+smape: 13.237757656386853
+mase: 1.6682261975947517
+./src/dataset/electricity/electricity.csv ExponentialSmoothingForecast Normalization
+mse: 347295.4280078103
+mae: 456.83265370174695
+mape: 13.36174309469592
+smape: 13.237757656386853
+mase: 1.6682261975947517
+./src/dataset/electricity/electricity.csv ExponentialSmoothingForecast Standardization
+mse: 347295.4280078103
+mae: 456.83265370174695
+mape: 13.361743094695921
+smape: 13.237757656386853
+mase: 1.6682261975947517
+./src/dataset/electricity/electricity.csv ExponentialSmoothingForecast MeanNormalization
+mse: 347295.4280078103
+mae: 456.83265370174695
+mape: 13.36174309469592
+smape: 13.237757656386853
+mase: 1.6682261975947517
+./src/dataset/electricity/electricity.csv ExponentialSmoothingForecast BoxCox
+mse: 346845.21861558646
+mae: 456.48518979759245
+mape: 13.346603919166538
+smape: 13.230113072725574
+mase: 1.6669572191702278
+./src/dataset/exchange_rate/exchange_rate.csv AutoRegressiveLinearForecast IdentityTransform
+mse: 0.00027529800071590395
+mae: 0.012865017339942728
+mape: 1.7658281578667592
+smape: 1.7671251563565866
+mase: 0.7641930378006533
+./src/dataset/exchange_rate/exchange_rate.csv AutoRegressiveLinearForecast Normalization
+mse: 0.00028574745815753956
+mae: 0.012990497409915496
+mape: 1.7863153904009303
+smape: 1.7793775889208416
+mase: 0.7716532938141604
+./src/dataset/exchange_rate/exchange_rate.csv AutoRegressiveLinearForecast Standardization
+mse: 0.0002860336779131351
+mae: 0.012991385462285154
+mape: 1.786415415541899
+smape: 1.7795028483458024
+mase: 0.7717060797506378
+./src/dataset/exchange_rate/exchange_rate.csv AutoRegressiveLinearForecast MeanNormalization
+mse: 0.00028612482856046456
+mae: 0.012992296811103646
+mape: 1.78655464721562
+smape: 1.7795732300525935
+mase: 0.7717602002564306
+./src/dataset/exchange_rate/exchange_rate.csv AutoRegressiveLinearForecast BoxCox
+mse: 0.000274506826523503
+mae: 0.012841544408335674
+mape: 1.7626185482052974
+smape: 1.7639046145757897
+mase: 0.7627987472227851
+./src/dataset/exchange_rate/exchange_rate.csv ExponentialSmoothingForecast IdentityTransform
+mse: 0.00029209315995984636
+mae: 0.0131820796006908
+mape: 1.8181845070808957
+smape: 1.8095656566780218
+mase: 0.7830302190941963
+./src/dataset/exchange_rate/exchange_rate.csv ExponentialSmoothingForecast Normalization
+mse: 0.00029209315995984636
+mae: 0.013182079600690804
+mape: 1.8181845070808957
+smape: 1.8095656566780218
+mase: 0.7830302190941962
+./src/dataset/exchange_rate/exchange_rate.csv ExponentialSmoothingForecast Standardization
+mse: 0.00029209315995984636
+mae: 0.013182079600690804
+mape: 1.8181845070808957
+smape: 1.8095656566780218
+mase: 0.7830302190941962
+./src/dataset/exchange_rate/exchange_rate.csv ExponentialSmoothingForecast MeanNormalization
+mse: 0.00029209315995984636
+mae: 0.013182079600690804
+mape: 1.8181845070808957
+smape: 1.8095656566780223
+mase: 0.7830302190941962
+./src/dataset/exchange_rate/exchange_rate.csv ExponentialSmoothingForecast BoxCox
+mse: 0.00029208461938440397
+mae: 0.013181938731676635
+mape: 1.818162583084302
+smape: 1.809548558588012
+mase: 0.7830218736591188
+./src/dataset/illness/national_illness.csv AutoRegressiveLinearForecast IdentityTransform
+mse: 89723407679.28218
+mae: 236474.57165642965
+mape: 17.015025977885696
+smape: 19.855568724023676
+mase: inf
+./src/dataset/illness/national_illness.csv AutoRegressiveLinearForecast Normalization
+mse: 73367294001.57799
+mae: 212941.74531785437
+mape: 15.380323478391508
+smape: 17.62005985933878
+mase: inf
+./src/dataset/illness/national_illness.csv AutoRegressiveLinearForecast Standardization
+mse: 73286739675.24475
+mae: 212788.34151327872
+mape: 15.370285826517138
+smape: 17.612579948712998
+mase: inf
+./src/dataset/illness/national_illness.csv AutoRegressiveLinearForecast MeanNormalization
+mse: 72990853590.3882
+mae: 212595.49021934462
+mape: 15.355069860014472
+smape: 17.57220371222103
+mase: inf
+./src/dataset/illness/national_illness.csv AutoRegressiveLinearForecast BoxCox
+mse: 90498885688.4886
+mae: 234290.64603636327
+mape: 16.86579851554269
+smape: 19.732394707458482
+mase: inf
+./src/dataset/illness/national_illness.csv ExponentialSmoothingForecast IdentityTransform
+mse: 153812166116.58548
+mae: 321793.57865083043
+mape: 22.197641750869106
+smape: 26.657140783944914
+mase: inf
+./src/dataset/illness/national_illness.csv ExponentialSmoothingForecast Normalization
+mse: 153812166116.58548
+mae: 321793.5786508304
+mape: 22.197641750869106
+smape: 26.65714078394491
+mase: inf
+./src/dataset/illness/national_illness.csv ExponentialSmoothingForecast Standardization
+mse: 153812166116.5855
+mae: 321793.57865083043
+mape: 22.197641750869114
+smape: 26.657140783944914
+mase: inf
+./src/dataset/illness/national_illness.csv ExponentialSmoothingForecast MeanNormalization
+mse: 153812166116.5855
+mae: 321793.57865083043
+mape: 22.197641750869114
+smape: 26.657140783944914
+mase: inf
+./src/dataset/illness/national_illness.csv ExponentialSmoothingForecast BoxCox
+mse: 155077269799.62778
+mae: 323274.20016988437
+mape: 22.30491038190201
+smape: 26.807029521479482
+mase: inf
+./src/dataset/traffic/traffic.csv AutoRegressiveLinearForecast IdentityTransform
+mse: 0.00010462303753880223
+mae: 0.007471708533935763
+mape: 36.81378269851525
+smape: 41.60977297590377
+mase: 1.2135367704150068
+./src/dataset/traffic/traffic.csv AutoRegressiveLinearForecast Normalization
+mse: 0.00024770505193538836
+mae: 0.013051473174322797
+mape: 99.55242335638602
+smape: 75.10438706125873
+mase: 2.120298769895065
+./src/dataset/traffic/traffic.csv AutoRegressiveLinearForecast Standardization
+mse: 8.49976540806316e-05
+mae: 0.006025784540969442
+mape: 51.95979460945506
+smape: 20.904973862789763
+mase: 0.9785282125485649
+./src/dataset/traffic/traffic.csv AutoRegressiveLinearForecast MeanNormalization
+mse: 8.494515540826112e-05
+mae: 0.006025957600971042
+mape: 51.70662609823948
+smape: 20.926504677714515
+mase: 0.978556528249886
+./src/dataset/traffic/traffic.csv AutoRegressiveLinearForecast BoxCox
+mse: 0.00010425998060852573
+mae: 0.007449311508791729
+mape: 36.31621717488962
+smape: 41.08781679022116
+mase: 1.2099013233751739
+./src/dataset/traffic/traffic.csv ExponentialSmoothingForecast IdentityTransform
+mse: 0.0010222075997817226
+mae: 0.02599105662601541
+mape: 312.47821729282134
+smape: 79.00174427479469
+mase: 4.219343147272756
+./src/dataset/traffic/traffic.csv ExponentialSmoothingForecast Normalization
+mse: 0.0010222075997817226
+mae: 0.02599105662601541
+mape: 312.47821729282134
+smape: 79.00174427479469
+mase: 4.219343147272756
+./src/dataset/traffic/traffic.csv ExponentialSmoothingForecast Standardization
+mse: 0.0010222075997817221
+mae: 0.02599105662601541
+mape: 312.47821729282134
+smape: 79.00174427479469
+mase: 4.219343147272756
+./src/dataset/traffic/traffic.csv ExponentialSmoothingForecast MeanNormalization
+mse: 0.0010222075997817226
+mae: 0.02599105662601541
+mape: 312.47821729282134
+smape: 79.00174427479469
+mase: 4.219343147272756
+./src/dataset/traffic/traffic.csv ExponentialSmoothingForecast BoxCox
+mse: 0.0010219237629018694
+mae: 0.025989078023157353
+mape: 312.3257428095441
+smape: 79.0135023152349
+mase: 4.2190218699778885
+./src/dataset/weather/weather.csv AutoRegressiveLinearForecast IdentityTransform
+mse: 536.5344224926469
+mae: 18.371317622823543
+mape: 4.095000344016374
+smape: 4.228572951745602
+mase: 2.5351452206819958
+./src/dataset/weather/weather.csv AutoRegressiveLinearForecast Normalization
+mse: 230.30176341949576
+mae: 10.471717725555655
+mape: 2.3884358029108186
+smape: 2.3338536278567696
+mase: 1.4449620134097196
+./src/dataset/weather/weather.csv AutoRegressiveLinearForecast Standardization
+mse: 96.521924941843
+mae: 6.87458378526139
+mape: 1.5490606462160612
+smape: 1.546080720448653
+mase: 0.9485434913643406
+./src/dataset/weather/weather.csv AutoRegressiveLinearForecast MeanNormalization
+mse: 96.52165678953287
+mae: 6.874577117767607
+mape: 1.5490587442513624
+smape: 1.546079334571391
+mase: 0.9485425711094095
+./src/dataset/weather/weather.csv AutoRegressiveLinearForecast BoxCox
+mse: 10340387710.72992
+mae: 83192.6916690974
+mape: 18916.45863707049
+smape: 187.92720651999807
+mase: 11483.784769008013
+./src/dataset/weather/weather.csv ExponentialSmoothingForecast IdentityTransform
+mse: 72.36881951264621
+mae: 5.6605690420574755
+mape: 1.2753169449210153
+smape: 1.2713315051957432
+mase: 0.781048937308406
+./src/dataset/weather/weather.csv ExponentialSmoothingForecast Normalization
+mse: 72.36881951264618
+mae: 5.660569042057476
+mape: 1.2753169449210158
+smape: 1.2713315051957434
+mase: 0.7810489373084059
+./src/dataset/weather/weather.csv ExponentialSmoothingForecast Standardization
+mse: 72.3688195126462
+mae: 5.660569042057476
+mape: 1.2753169449210153
+smape: 1.2713315051957434
+mase: 0.7810489373084059
+./src/dataset/weather/weather.csv ExponentialSmoothingForecast MeanNormalization
+mse: 72.3688195126462
+mae: 5.660569042057476
+mape: 1.2753169449210158
+smape: 1.2713315051957434
+mase: 0.7810489373084059
+./src/dataset/weather/weather.csv ExponentialSmoothingForecast BoxCox
+mse: 72.39682871930727
+mae: 5.661081692323489
+mape: 1.2754193631605804
+smape: 1.2714480570021474
+mase: 0.78111963610653
+
